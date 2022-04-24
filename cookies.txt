@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+wormax.io	TRUE	/	FALSE	1999999999	portal	p1
+wormax.io	TRUE	/	FALSE	1999999999	JSESSIONID	cy8ipbazgsmm1nyvwkiy20ko5
+wormax.io	TRUE	/	FALSE	1999999999	lang	pt
+wormax.io	TRUE	/	FALSE	1999999999	entered	1650762779524
+
